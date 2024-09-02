@@ -1,0 +1,46 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:@types/apca-w3": "npm:@types/apca-w3@0.1.3",
+      "npm:@types/culori": "npm:@types/culori@2.1.0",
+      "npm:apca-w3": "npm:apca-w3@0.1.9",
+      "npm:colorjs.io": "npm:colorjs.io@0.5.0",
+      "npm:colorparsley": "npm:colorparsley@0.1.8",
+      "npm:culori": "npm:culori@4.0.1"
+    },
+    "npm": {
+      "@types/apca-w3@0.1.3": {
+        "integrity": "sha512-1C7e66xWCy1UOXHk/VXs4tjrY9hW3q3sykjJJxSC5TIIFt0lt9mh0ysdQxY0rVejTv4SW92G19j98PjqjCSz7Q==",
+        "dependencies": {}
+      },
+      "@types/culori@2.1.0": {
+        "integrity": "sha512-4uJT5CcC9Mi8mACkWShsPHqILMWL0OqoTsfoLJUGzN1mcipcepmmEdzU8b9L1KwyRNN3rnQO39ylI/2VR850zw==",
+        "dependencies": {}
+      },
+      "apca-w3@0.1.9": {
+        "integrity": "sha512-Zrf6AeBeQjNe/fxK7U1jCo5zfdjDl6T4/kdw5Xlky3G7u+EJTZkyItjMYQGtwf9pkftsINxcYyOpuLkzKf1ITQ==",
+        "dependencies": {
+          "colorparsley": "colorparsley@0.1.8"
+        }
+      },
+      "colorjs.io@0.5.0": {
+        "integrity": "sha512-qekjTiBLM3F/sXKks/ih5aWaHIGu+Ftel0yKEvmpbKvmxpNOhojKgha5uiWEUOqEpRjC1Tq3nJRT7WgdBOxIGg==",
+        "dependencies": {}
+      },
+      "colorparsley@0.1.8": {
+        "integrity": "sha512-rObESTTTE6G5qO5WFwFxWPggpw4KfpxnLC6Ssl8bITBnNVRhDsyCeTRAUxWQNVTx2pRknKlO2nddYTxjkdNFaw==",
+        "dependencies": {}
+      },
+      "culori@4.0.1": {
+        "integrity": "sha512-LSnjA6HuIUOlkfKVbzi2OlToZE8OjFi667JWN9qNymXVXzGDmvuP60SSgC+e92sd7B7158f7Fy3Mb6rXS5EDPw==",
+        "dependencies": {}
+      }
+    }
+  },
+  "redirects": {
+    "https://esm.sh/culori": "https://esm.sh/culori@4.0.1",
+    "https://esm.sh/v135/@types/culori@latest/index.d.ts": "https://esm.sh/v135/@types/culori@2.1.0/index.d.ts"
+  },
+  "remote": {}
+}
